@@ -1,7 +1,0 @@
-<defines>
-GHASH -> 20201002
-</defines>
-
-<module_info>
-name -> "GHASH"
-</module_info>
