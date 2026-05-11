@@ -1,3 +1,9 @@
+# Gung Build on Windows 11 Insider 25H2 
+- Cloned from the official Thunderbird repository, then modified the source and built Thunderbird on Windows 11 Pro Insider Preview 25H2. Build notes: [README.GUNG_BUILD.md](README.GUNG_BUILD.md) and [README.GUNG_BUILD.zh-CN.md](README.GUNG_BUILD.zh-CN.md).
+- 从 Thunderbird 官方仓库克下来后，我在 Windows 11 Pro Insider Preview 25H2 上改了源码，然后自己把 Thunderbird 编译了一遍。构建记录在这里：[README.GUNG_BUILD.md](README.GUNG_BUILD.md) 和 [README.GUNG_BUILD.zh-CN.md](README.GUNG_BUILD.zh-CN.md)。
+
+
+
 # Thunderbird
 Thunderbird is a powerful and customizable open source email client with lots of users. It is based on the same platform that Firefox uses.
 
